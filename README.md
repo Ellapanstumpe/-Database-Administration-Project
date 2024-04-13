@@ -1,4 +1,4 @@
-# Database-Administration-Project
+# Database Administration Project
 This is a Database Administration project on Relational Database Administration (DBA) course, which is a part of IBM Professional Data Engineer Certificate. This project demostraite my Database Administration skills of IBM db2 , MySQL, PostgreSQL and shell scripts. This project is devided into 3 parts and cover various skills related to database administration. Here's a breakdown of the skills tested in each part:
 
 
